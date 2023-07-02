@@ -1,0 +1,14 @@
+{
+  "name": "photo-app",
+  "version": "1.0.0",
+  "description": "Complete Node.js Full Stack Developer with Photo Sharing App Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adnan Abbasi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
